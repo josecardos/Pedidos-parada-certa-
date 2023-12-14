@@ -1,4 +1,4 @@
-# Pedidos-parada-certa-# Sistema de Pedidos de Lanches
+# Sistema de Pedidos de Lanches
 
 ## Descrição
 Este é um sistema simples para fazer pedidos de lanches.
